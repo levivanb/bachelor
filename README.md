@@ -13,7 +13,7 @@ Web scraper for collecting Google Search Volume Index (SVI) data from Google Tre
 The main replication code. Contains six consolidated do-files that reproduce all results in the paper. See the replication handbook (`replication_handbook.pdf`) for a full description of each file and the required raw data.
 
 ### `stata_old/`
-The original, unedited do-files written during the research process (~94 files). Included for transparency but **not intended for replication** — the code in `stata/` should be used instead.
+The original, unedited do-files written during the research process (~94 files). Included for transparency but **not intended for replication** — the code in `stata/` should be used instead. Read (`stata_code_overview.pdf`) for a description if you want to get an overview/use the old code.
 
 ---
 
