@@ -6,11 +6,12 @@ This repository contains all code used in *Revisiting FEARS* by Levi van Boekel.
 
 ## Repository structure
 
-### `python/`
-Web scraper for collecting Google Search Volume Index (SVI) data from Google Trends. Run this only if you want to reproduce the raw Trends CSV files from scratch, as these files are already included and are the ones used in the Stata workflow.
 
 ### `code/stata/`
 The main replication code. Contains six consolidated do-files that reproduce all results in the paper. See the replication handbook (`replication_handbook.pdf`) for a full description of each file and the required raw data.
+
+### `python/`
+Web scraper for collecting Google Search Volume Index (SVI) data from Google Trends. Run this only if you want to reproduce the raw Trends CSV files from scratch, as these files are already included and are the ones used in the Stata workflow.
 
 ### `stata_old/`
 The original, unedited do-files written during the research process (~94 files). Included for transparency but **not intended for replication** — the code in `stata/` should be used instead. Read (`stata_code_overview.pdf`) for a description if you want to get an overview/use the old code.
