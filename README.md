@@ -1,6 +1,6 @@
 # Revisiting FEARS — Replication Repository
 
-This repository contains all code used in *Revisiting FEARS* by Levi van Boekel.
+This repository contains all code used in *Revisiting FEARS: Do Google Searches Still Predict Stock Returns?* by Levi van Boekel.
 
 ---
 
